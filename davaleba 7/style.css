@@ -1,0 +1,47 @@
+body{
+    padding: 20px;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-color: rgb(78, 166, 88);
+    margin: 10px;
+}
+img{
+    width: 1210px;
+}
+#logo{
+    margin: 0 30px;
+    width: 100px;
+    height: 100px;
+}
+
+nav {
+            display: flex;
+            justify-content: center;
+            margin-left: 150px;
+             gap: 120px;
+        }
+nav a {
+    display: flex;
+    justify-content: space-between;
+   
+ }
+
+.section-2{
+color: rgb(223, 93, 93);
+}
+
+p{
+    color: rgb(19, 19, 125);
+}
+
+footer{
+            background-color: rgb(21, 21, 36);
+           
+        }
+ .footer{
+             color: rgb(246, 238, 212);
+        }
